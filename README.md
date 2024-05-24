@@ -9,7 +9,7 @@ The proposed calendar application is designed to deliver an exceptional user exp
 
 ## Used technologies
 
-FitFlex has been build using the following technologies.
+TS-Calendar has been build using the following technologies.
 
 -Typescript
 -HTML
